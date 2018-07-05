@@ -5,6 +5,4 @@ You can add these libraries by importing jar file in your project.
 
 Use code:
 
-import secure.<ClassName>
-  
-to import classes or interfaces.
+import secure.ClassName       to import classes or interfaces.
